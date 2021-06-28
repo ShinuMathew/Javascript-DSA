@@ -20,4 +20,4 @@ function getSecondLargest(nums) {
 }
 
 
-console.log(reverseString(Number(1234)))
+console.log(getSecondLargest([5, 6, 1, 9, 7, 4, 2, 9]))
